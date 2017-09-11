@@ -1,1 +1,1 @@
-Als u de onderwerpen over vensters in dit gedeelte wilt bekijken, kiest u de subingangen in de inhoudsopgave.
+<span data-ttu-id="c8b34-101">Als u de onderwerpen over vensters in dit gedeelte wilt bekijken, kiest u de subingangen in de inhoudsopgave.</span><span class="sxs-lookup"><span data-stu-id="c8b34-101">To see the window topics in this section, choose the subentries in the table of contents.</span></span>

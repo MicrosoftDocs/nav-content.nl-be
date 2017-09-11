@@ -9,47 +9,47 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: f34bef80c64cbad0a0b20d4d021cefbdc5a1cb64
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: aa36ff606cf832049e7f002af724a9185289a2b3
 ms.contentlocale: nl-be
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-transfer-bank-funds"></a>Procedure: Bankfondsen overboeken
-Soms moet u een transfer van een bedrag van de ene naar de andere bankrekening boeken. Als u dit wilt doen, moet u een transactie boeken in het dagboek. De taak verschilt afhankelijk van of de bankrekeningen dezelfde valuta gebruiken of niet.
+# <a name="how-to-transfer-bank-funds"></a><span data-ttu-id="3e999-102">Procedure: Bankfondsen overboeken</span><span class="sxs-lookup"><span data-stu-id="3e999-102">How to: Transfer Bank Funds</span></span>
+<span data-ttu-id="3e999-103">Soms moet u een transfer van een bedrag van de ene naar de andere bankrekening boeken.</span><span class="sxs-lookup"><span data-stu-id="3e999-103">You may sometimes need to transfer an amount from one bank account to another.</span></span> <span data-ttu-id="3e999-104">Als u dit wilt doen, moet u een transactie boeken in het dagboek.</span><span class="sxs-lookup"><span data-stu-id="3e999-104">To do this, you must post the a transaction in the general journal.</span></span> <span data-ttu-id="3e999-105">De taak verschilt afhankelijk van of de bankrekeningen dezelfde valuta gebruiken of niet.</span><span class="sxs-lookup"><span data-stu-id="3e999-105">The task varies depending on whether the bank accounts use the same currency or different currencies.</span></span>
 
-## <a name="to-post-a-transfer-between-bank-accounts-with-the-same-currency-code"></a>Een transfer boeken tussen bankrekeningen met dezelfde valutacode
-1. Kies in de rechterbovenhoek het pictogram **Zoeken naar pagina of rapport**, voer **Dagboek** in en kies vervolgens de gerelateerde koppeling.
-2. Vul op een dagboekregel de velden **Boekingsdatum** en **Documentnr.** in.
-3. Selecteer in het veld **Rekeningsoort** de optie **Bankrekening**.
-4. Selecteer in het veld **Rekeningnr.** de bank waarvan u de fondsen wilt overbrengen.
-5. Voer in het veld **Bedrag** het bedrag in dat u wilt overbrengen.
-6. Selecteer in het veld **Tegenrekeningtype** **Bankrekening**.
-7. Selecteer in het veld **Tegenrekeningtype** de bankrekening waarvan u de fondsen wilt overbrengen.
-8. Boek het dagboek.
+## <a name="to-post-a-transfer-between-bank-accounts-with-the-same-currency-code"></a><span data-ttu-id="3e999-106">Een transfer boeken tussen bankrekeningen met dezelfde valutacode</span><span class="sxs-lookup"><span data-stu-id="3e999-106">To post a transfer between bank accounts with the same currency code</span></span>
+1. <span data-ttu-id="3e999-107">Kies in de rechterbovenhoek het pictogram **Zoeken naar pagina of rapport**, voer **Dagboek** in en kies vervolgens de gerelateerde koppeling.</span><span class="sxs-lookup"><span data-stu-id="3e999-107">In the top right corner, choose the **Search for Page or Report** icon, enter **General Journal**, and then choose the related link.</span></span>
+2. <span data-ttu-id="3e999-108">Vul op een dagboekregel de velden **Boekingsdatum** en **Documentnr.**</span><span class="sxs-lookup"><span data-stu-id="3e999-108">On a journal line, fill in the **Posting Date** and **Document No.**</span></span> <span data-ttu-id="3e999-109">in.</span><span class="sxs-lookup"><span data-stu-id="3e999-109">fields.</span></span>
+3. <span data-ttu-id="3e999-110">Selecteer in het veld **Rekeningsoort** de optie **Bankrekening**.</span><span class="sxs-lookup"><span data-stu-id="3e999-110">In the **Account Type** field, select **Bank Account**.</span></span>
+4. <span data-ttu-id="3e999-111">Selecteer in het veld **Rekeningnr.**</span><span class="sxs-lookup"><span data-stu-id="3e999-111">In the **Account No.**</span></span> <span data-ttu-id="3e999-112">de bank waarvan u de fondsen wilt overbrengen.</span><span class="sxs-lookup"><span data-stu-id="3e999-112">field, select the bank from which you want to transfer the funds.</span></span>
+5. <span data-ttu-id="3e999-113">Voer in het veld **Bedrag** het bedrag in dat u wilt overbrengen.</span><span class="sxs-lookup"><span data-stu-id="3e999-113">In the **Amount** field, enter the amount to be transferred.</span></span>
+6. <span data-ttu-id="3e999-114">Selecteer in het veld **Tegenrekeningtype** **Bankrekening**.</span><span class="sxs-lookup"><span data-stu-id="3e999-114">In the **Bal. Account Type** field, select **Bank Account**.</span></span>
+7. <span data-ttu-id="3e999-115">Selecteer in het veld **Tegenrekeningtype**</span><span class="sxs-lookup"><span data-stu-id="3e999-115">In the **Bal. Account No.**</span></span> <span data-ttu-id="3e999-116">de bankrekening waarvan u de fondsen wilt overbrengen.</span><span class="sxs-lookup"><span data-stu-id="3e999-116">field, select the bank account to which you want to transfer the funds.</span></span>
+8. <span data-ttu-id="3e999-117">Boek het dagboek.</span><span class="sxs-lookup"><span data-stu-id="3e999-117">Post the journal.</span></span>
 
-## <a name="to-post-a-transfer-between-bank-accounts-with-different-currency-codes"></a>Transfers boeken tussen bankrekeningen met verschillende valutacodes
-Als u gelden wilt overbrengen tussen bankrekeningen die verschillende valuta's gebruiken, moet u twee dagboekregels boeken.
+## <a name="to-post-a-transfer-between-bank-accounts-with-different-currency-codes"></a><span data-ttu-id="3e999-118">Transfers boeken tussen bankrekeningen met verschillende valutacodes</span><span class="sxs-lookup"><span data-stu-id="3e999-118">To post a transfer between bank accounts with different currency codes</span></span>
+<span data-ttu-id="3e999-119">Als u gelden wilt overbrengen tussen bankrekeningen die verschillende valuta's gebruiken, moet u twee dagboekregels boeken.</span><span class="sxs-lookup"><span data-stu-id="3e999-119">To transfer funds between bank accounts that use different currencies, you must post two general journal lines.</span></span>
 
-1. Kies in de rechterbovenhoek het pictogram **Zoeken naar pagina of rapport**, voer **Dagboek** in en kies vervolgens de gerelateerde koppeling.
-2. Maak twee dagboekregels en vul de **Boekingsdatum** en **Documentnr.** in.
-3. Selecteer op de eerste dagboekregel **Bankrekening** in het veld **Soort**.
-4. Selecteer in het veld **Rekeningnr.** selecteer de bankrekening waarvan u de fondsen wilt overbrengen.
-5. Voer in het veld **Bedrag** het bedrag in de valuta van de bankrekening in. Voer creditbedragen met een minteken in. Voer debetbedragen zonder een minteken in.
-6. Selecteer in het veld **Tegenrekeningtype** **Bankrekening**.
-7. Selecteer in het veld **Tegenrekeningtype** de bankrekening waarvan u de fondsen wilt overbrengen.
-8. Selecteer op de tweede dagboekregel **Bankrekening** in het veld **Soort**.
-9. Selecteer in het veld **Rekeningnr.** de bankrekening waarvan u de fondsen wilt overbrengen.
-10. Voer in het veld **Bedrag** het bedrag in de valuta van de bankrekening in. Voer creditbedragen met een minteken in. Voer debetbedragen zonder een minteken in.
-11. Selecteer in het veld **Tegenrekeningtype** **Bankrekening**.  
-12. Selecteer in het veld **Tegenrekeningtype** selecteer de bankrekening waarvan u de fondsen wilt overbrengen.
+1. <span data-ttu-id="3e999-120">Kies in de rechterbovenhoek het pictogram **Zoeken naar pagina of rapport**, voer **Dagboek** in en kies vervolgens de gerelateerde koppeling.</span><span class="sxs-lookup"><span data-stu-id="3e999-120">In the top right corner, choose the **Search for Page or Report** icon, enter **General Journal**, and then choose the related link.</span></span>
+2. <span data-ttu-id="3e999-121">Maak twee dagboekregels en vul de **Boekingsdatum** en **Documentnr.**</span><span class="sxs-lookup"><span data-stu-id="3e999-121">Create two journal lines, and fill in the **Posting Date** and **Document No.**</span></span> <span data-ttu-id="3e999-122">in.</span><span class="sxs-lookup"><span data-stu-id="3e999-122">fields.</span></span>
+3. <span data-ttu-id="3e999-123">Selecteer op de eerste dagboekregel **Bankrekening** in het veld **Soort**.</span><span class="sxs-lookup"><span data-stu-id="3e999-123">On the first journal line, in the **Type** field, select **Bank Account**.</span></span>
+4. <span data-ttu-id="3e999-124">Selecteer in het veld **Rekeningnr.**</span><span class="sxs-lookup"><span data-stu-id="3e999-124">In the **Account No.**</span></span> <span data-ttu-id="3e999-125">selecteer de bankrekening waarvan u de fondsen wilt overbrengen.</span><span class="sxs-lookup"><span data-stu-id="3e999-125">field, select the bank account from which you want to transfer the funds.</span></span>
+5. <span data-ttu-id="3e999-126">Voer in het veld **Bedrag** het bedrag in de valuta van de bankrekening in.</span><span class="sxs-lookup"><span data-stu-id="3e999-126">In the **Amount** field, enter the amount in the currency of the bank account.</span></span> <span data-ttu-id="3e999-127">Voer creditbedragen met een minteken in.</span><span class="sxs-lookup"><span data-stu-id="3e999-127">Enter credit amounts with a minus sign.</span></span> <span data-ttu-id="3e999-128">Voer debetbedragen zonder een minteken in.</span><span class="sxs-lookup"><span data-stu-id="3e999-128">Enter debit amounts without a minus sign.</span></span>
+6. <span data-ttu-id="3e999-129">Selecteer in het veld **Tegenrekeningtype** **Bankrekening**.</span><span class="sxs-lookup"><span data-stu-id="3e999-129">In the **Bal. Account Type** field, select **Bank Account**.</span></span>
+7. <span data-ttu-id="3e999-130">Selecteer in het veld **Tegenrekeningtype**</span><span class="sxs-lookup"><span data-stu-id="3e999-130">In the **Bal. Account No.**</span></span> <span data-ttu-id="3e999-131">de bankrekening waarvan u de fondsen wilt overbrengen.</span><span class="sxs-lookup"><span data-stu-id="3e999-131">field, select the bank account to which you want to transfer the funds.</span></span>
+8. <span data-ttu-id="3e999-132">Selecteer op de tweede dagboekregel **Bankrekening** in het veld **Soort**.</span><span class="sxs-lookup"><span data-stu-id="3e999-132">On the second journal line, in the **Type** field, select **Bank Account**.</span></span>
+9. <span data-ttu-id="3e999-133">Selecteer in het veld **Rekeningnr.**</span><span class="sxs-lookup"><span data-stu-id="3e999-133">In the **Account No.**</span></span> <span data-ttu-id="3e999-134">de bankrekening waarvan u de fondsen wilt overbrengen.</span><span class="sxs-lookup"><span data-stu-id="3e999-134">field, select the bank account to which you want to transfer the funds.</span></span>
+10. <span data-ttu-id="3e999-135">Voer in het veld **Bedrag** het bedrag in de valuta van de bankrekening in.</span><span class="sxs-lookup"><span data-stu-id="3e999-135">In the **Amount** field, enter the amount in the currency of the bank account.</span></span> <span data-ttu-id="3e999-136">Voer creditbedragen met een minteken in.</span><span class="sxs-lookup"><span data-stu-id="3e999-136">Enter credit amounts with a minus sign.</span></span> <span data-ttu-id="3e999-137">Voer debetbedragen zonder een minteken in.</span><span class="sxs-lookup"><span data-stu-id="3e999-137">Enter debit amounts without a minus sign.</span></span>
+11. <span data-ttu-id="3e999-138">Selecteer in het veld **Tegenrekeningtype** **Bankrekening**.</span><span class="sxs-lookup"><span data-stu-id="3e999-138">In the **Bal. Account Type** field, select **Bank Account**.</span></span>  
+12. <span data-ttu-id="3e999-139">Selecteer in het veld **Tegenrekeningtype**</span><span class="sxs-lookup"><span data-stu-id="3e999-139">In the **Bal. Account No.**</span></span> <span data-ttu-id="3e999-140">selecteer de bankrekening waarvan u de fondsen wilt overbrengen.</span><span class="sxs-lookup"><span data-stu-id="3e999-140">field, select the bank account from which you want to transfer the funds.</span></span>
 
-    **Opmerking**: als de gebruikte wisselkoersen in het dagboek verschillen van de wisselkoersen in het venster **Valutawisselkoersen**, voert u een derde regel in voor de wisselkoerswinsten of -verliezen. Geef **Grootboekrekening** op in het veld **Rekeningsoort**. Voer in het veld **Rekeningnr.** het grootboekrekeningnummer voor wisselkoerswinst of -verlies in. Voer de wisselkoerswinst of - verlies in het veld **Bedrag** in met of zonder een minteken voor respectievelijk debet- en creditbedragen.
-13. Boek het dagboek.
+    <span data-ttu-id="3e999-141">**Opmerking**: als de gebruikte wisselkoersen in het dagboek verschillen van de wisselkoersen in het venster **Valutawisselkoersen**, voert u een derde regel in voor de wisselkoerswinsten of -verliezen.</span><span class="sxs-lookup"><span data-stu-id="3e999-141">**Note**: If the exchange rates used in the journal are different than the exchange rates in the **Currency Exchange Rates** window, enter a third line for the exchange rate gain or loss.</span></span> <span data-ttu-id="3e999-142">Geef **Grootboekrekening** op in het veld **Rekeningsoort**.</span><span class="sxs-lookup"><span data-stu-id="3e999-142">Enter **G/L Account** in the **Account Type** field.</span></span> <span data-ttu-id="3e999-143">Voer in het veld **Rekeningnr.** het grootboekrekeningnummer voor wisselkoerswinst of -verlies</span><span class="sxs-lookup"><span data-stu-id="3e999-143">Enter the G/L account number for exchange rate gain or loss in the **Account No.**</span></span> <span data-ttu-id="3e999-144">in.</span><span class="sxs-lookup"><span data-stu-id="3e999-144">field.</span></span> <span data-ttu-id="3e999-145">Voer de wisselkoerswinst of - verlies in het veld **Bedrag** in met of zonder een minteken voor respectievelijk debet- en creditbedragen.</span><span class="sxs-lookup"><span data-stu-id="3e999-145">Enter the exchange rate gain or loss in the **Amount** field with or without a minus sign for credits and debits respectively.</span></span>
+13. <span data-ttu-id="3e999-146">Boek het dagboek.</span><span class="sxs-lookup"><span data-stu-id="3e999-146">Post the journal.</span></span>
 
-## <a name="see-also"></a>Zie ook  
-[Bankrekeningen beheren.](bank-manage-bank-accounts.md)  
-[Bankieren instellen](bank-setup-banking.md)  
-[Werken met diversendagboeken](ui-work-general-journals.md)
+## <a name="see-also"></a><span data-ttu-id="3e999-147">Zie ook</span><span class="sxs-lookup"><span data-stu-id="3e999-147">See Also</span></span>  
+[<span data-ttu-id="3e999-148">Bankrekeningen beheren.</span><span class="sxs-lookup"><span data-stu-id="3e999-148">Manage Bank Accounts</span></span>](bank-manage-bank-accounts.md)  
+[<span data-ttu-id="3e999-149">Bankieren instellen</span><span class="sxs-lookup"><span data-stu-id="3e999-149">Set Up Banking</span></span>](bank-setup-banking.md)  
+[<span data-ttu-id="3e999-150">Werken met diversendagboeken</span><span class="sxs-lookup"><span data-stu-id="3e999-150">Work with General Journals</span></span>](ui-work-general-journals.md)
 

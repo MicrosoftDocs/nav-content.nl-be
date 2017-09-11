@@ -1,1 +1,1 @@
-Rolgerichte client
+<span data-ttu-id="58a09-101">Rolgerichte client</span><span class="sxs-lookup"><span data-stu-id="58a09-101">RoleTailored client</span></span>
