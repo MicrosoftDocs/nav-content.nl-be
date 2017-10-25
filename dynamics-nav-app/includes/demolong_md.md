@@ -1,1 +1,1 @@
-<span data-ttu-id="0630c-101">CRONUS Nederland BV</span><span class="sxs-lookup"><span data-stu-id="0630c-101">CRONUS International Ltd.</span></span> <span data-ttu-id="0630c-102">demodatabase</span><span class="sxs-lookup"><span data-stu-id="0630c-102">demonstration database</span></span>
+<span data-ttu-id="38e2d-101">CRONUS International Ltd. demonstratiedatabase</span><span class="sxs-lookup"><span data-stu-id="38e2d-101">CRONUS International Ltd. demonstration database</span></span>

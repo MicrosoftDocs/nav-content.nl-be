@@ -1,38 +1,40 @@
 ---
-title: Projectbeheer instellen
+title: Resources, urenstaten en taken instellen
+description: Beschrijft hoe u resources, urenstaten en taken instelt om projecten te beheren.
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 11/01/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: cce5d36859336b3380bb43adc4f53b05a664042a
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: projects
+ms.date: 06/06/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 610e943f70908c402f3ad78d8ce2ee84e6033110
 ms.contentlocale: nl-be
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="setting-up-project-management"></a><span data-ttu-id="1430b-103">Projectbeheer instellen</span><span class="sxs-lookup"><span data-stu-id="1430b-103">Setting Up Project Management</span></span>
+<span data-ttu-id="1430b-104">Voordat u [!INCLUDE[d365fin](includes/d365fin_md.md)] kunt gebruiken om projecten te beheren, moet u resources, urenstaten en projecten instellen.</span><span class="sxs-lookup"><span data-stu-id="1430b-104">Before you can use [!INCLUDE[d365fin](includes/d365fin_md.md)] to manage projects, you must set up resources, time sheets, and jobs.</span></span>
 
-# <a name="set-up-project-management"></a><span data-ttu-id="03466-102">Projectbeheer instellen</span><span class="sxs-lookup"><span data-stu-id="03466-102">Set Up Project Management</span></span>
-<span data-ttu-id="03466-103">Voordat u Dynamics NAV kunt gebruiken om projecten te beheren, moet u resources, urenstaten en projecten instellen.</span><span class="sxs-lookup"><span data-stu-id="03466-103">Before you can use Dynamics NAV to manage projects, you must set up resources, time sheets, and jobs.</span></span>
+<span data-ttu-id="1430b-105">Vervolgens kunt u projecten maken en resources plannen voor projecten, en budgetten beheren en machine- en werknemersuren bijhouden met urenstaten.</span><span class="sxs-lookup"><span data-stu-id="1430b-105">Then you can create jobs and schedule resources for projects as well as manage budgets and track machine and employee hours with time sheets.</span></span> <span data-ttu-id="1430b-106">Zie [Projecten beheren](projects-manage-projects.md) voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="1430b-106">For more information, see [Managing Projects](projects-manage-projects.md).</span></span>  
 
-<span data-ttu-id="03466-104">Vervolgens kunt u projecten maken en resources plannen voor projecten, en budgetten beheren en machine- en werknemersuren bijhouden met urenstaten.</span><span class="sxs-lookup"><span data-stu-id="03466-104">Then you can create jobs and schedule resources for projects as well as manage budgets and track machine and employee hours with time sheets.</span></span> <span data-ttu-id="03466-105">Zie [Projecten beheren](projects-manage-projects.md) voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="03466-105">For more information, see [Manage Projects](projects-manage-projects.md).</span></span>  
+<span data-ttu-id="1430b-107">In de volgende tabel wordt een reeks taken beschreven, met koppelingen naar de beschrijvende onderwerpen.</span><span class="sxs-lookup"><span data-stu-id="1430b-107">The following table describes a sequence of tasks, with links to the topics that describe them.</span></span>
 
-<span data-ttu-id="03466-106">In de volgende tabel wordt een reeks taken beschreven, met koppelingen naar de beschrijvende onderwerpen.</span><span class="sxs-lookup"><span data-stu-id="03466-106">The following table describes a sequence of tasks, with links to the topics that describe them.</span></span>
+| <span data-ttu-id="1430b-108">Als u dit wilt doen</span><span class="sxs-lookup"><span data-stu-id="1430b-108">To</span></span> | <span data-ttu-id="1430b-109">Zie</span><span class="sxs-lookup"><span data-stu-id="1430b-109">See</span></span> |
+| --- | --- |
+| <span data-ttu-id="1430b-110">Stel uw resources en de gerelateerde kosten en prijzen in voor afzonderlijke resources, resourcegroepen of alle beschikbare resources van het bedrijf.</span><span class="sxs-lookup"><span data-stu-id="1430b-110">Set up your resources and the related costs and prices, either for individual resources, resource groups, or for all available resources of the company.</span></span> |[<span data-ttu-id="1430b-111">Procedure: Resources instellen</span><span class="sxs-lookup"><span data-stu-id="1430b-111">How to: Set Up Resources</span></span>](projects-how-setup-resources.md) |
+| <span data-ttu-id="1430b-112">Schakel resources in om tijdgebruik te rapporteren voor een persoon of een machine en schakel een beheerder in die het gebruik en de toewijzing ervan controleert.</span><span class="sxs-lookup"><span data-stu-id="1430b-112">Enable resources to report time usage for an individual or a machine and enable a manager to review the usage and its allocation.</span></span> |[<span data-ttu-id="1430b-113">Procedure: Urenstaten instellen</span><span class="sxs-lookup"><span data-stu-id="1430b-113">How to: Set Up Time Sheets</span></span>](projects-how-setup-time-sheets.md) |
+| <span data-ttu-id="1430b-114">Maak projectkaarten en bereid projecttaken voor.</span><span class="sxs-lookup"><span data-stu-id="1430b-114">Create job cards and prepare job tasks.</span></span> <span data-ttu-id="1430b-115">Stel prijzen in voor projectartikelen en projectresources, en definieer projectboekingsgroepen.</span><span class="sxs-lookup"><span data-stu-id="1430b-115">Set up prices for job items and job resources and define job posting groups.</span></span> |[<span data-ttu-id="1430b-116">Procedure: projecten instellen</span><span class="sxs-lookup"><span data-stu-id="1430b-116">How to: Set Up Jobs</span></span>](projects-how-setup-jobs.md) |
 
-|<span data-ttu-id="03466-107">Als u dit wilt doen</span><span class="sxs-lookup"><span data-stu-id="03466-107">To</span></span> |<span data-ttu-id="03466-108">Zie</span><span class="sxs-lookup"><span data-stu-id="03466-108">See</span></span> |
-|---|----|
-|<span data-ttu-id="03466-109">Stel uw resources en de gerelateerde kosten en prijzen in voor afzonderlijke resources, resourcegroepen of alle beschikbare resources van het bedrijf.</span><span class="sxs-lookup"><span data-stu-id="03466-109">Set up your resources and the related costs and prices, either for individual resources, resource groups, or for all available resources of the company.</span></span>|[<span data-ttu-id="03466-110">Procedure: Resources instellen</span><span class="sxs-lookup"><span data-stu-id="03466-110">How to: Set Up Resources</span></span>](projects-how-setup-resources.md)|
-|<span data-ttu-id="03466-111">Schakel resources in om tijdgebruik te rapporteren voor een persoon of een machine en schakel een beheerder in die het gebruik en de toewijzing ervan controleert.</span><span class="sxs-lookup"><span data-stu-id="03466-111">Enable resources to report time usage for an individual or a machine and enable a manager to review the usage and its allocation.</span></span>|[<span data-ttu-id="03466-112">Procedure: Urenstaten instellen</span><span class="sxs-lookup"><span data-stu-id="03466-112">How to: Set Up Time Sheets</span></span>](projects-how-setup-time-sheets.md)
-|<span data-ttu-id="03466-113">Maak projectkaarten en bereid projecttaken voor.</span><span class="sxs-lookup"><span data-stu-id="03466-113">Create job cards and prepare job tasks.</span></span> <span data-ttu-id="03466-114">Stel prijzen in voor projectartikelen en projectresources, en definieer projectboekingsgroepen.</span><span class="sxs-lookup"><span data-stu-id="03466-114">Set up prices for job items and job resources and define job posting groups.</span></span>|[<span data-ttu-id="03466-115">Procedure: projecten instellen</span><span class="sxs-lookup"><span data-stu-id="03466-115">How to: Set Up Jobs</span></span>](projects-how-setup-jobs.md)|
-
-## <a name="see-also"></a><span data-ttu-id="03466-116">Zie ook</span><span class="sxs-lookup"><span data-stu-id="03466-116">See Also</span></span>
-[<span data-ttu-id="03466-117">Projecten beheren</span><span class="sxs-lookup"><span data-stu-id="03466-117">Manage Projects</span></span>](projects-manage-projects.md)  
-[<span data-ttu-id="03466-118">Financiën</span><span class="sxs-lookup"><span data-stu-id="03466-118">Finance</span></span>](finance-setup.md)  
-<span data-ttu-id="03466-119">[Inkoop beheren](purchasing-manage-purchasing.md)       </span><span class="sxs-lookup"><span data-stu-id="03466-119">[Manage Purchasing](purchasing-manage-purchasing.md)       </span></span>  
-<span data-ttu-id="03466-120">[Verkoop beheren](sales-manage-sales.md)   </span><span class="sxs-lookup"><span data-stu-id="03466-120">[Manage Sales](sales-manage-sales.md)   </span></span>  
-[<span data-ttu-id="03466-121">Werken met Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="03466-121">Work With Dynamics NAV</span></span>](ui-work-product.md)  
+## <a name="see-also"></a><span data-ttu-id="1430b-117">Zie ook</span><span class="sxs-lookup"><span data-stu-id="1430b-117">See Also</span></span>
+[<span data-ttu-id="1430b-118">Projecten beheren</span><span class="sxs-lookup"><span data-stu-id="1430b-118">Managing Projects</span></span>](projects-manage-projects.md)  
+[<span data-ttu-id="1430b-119">Financiën</span><span class="sxs-lookup"><span data-stu-id="1430b-119">Finance</span></span>](finance.md)  
+<span data-ttu-id="1430b-120">[Inkoop](purchasing-manage-purchasing.md)       </span><span class="sxs-lookup"><span data-stu-id="1430b-120">[Purchasing](purchasing-manage-purchasing.md)       </span></span>  
+<span data-ttu-id="1430b-121">[Verkoop](sales-manage-sales.md)   </span><span class="sxs-lookup"><span data-stu-id="1430b-121">[Sales](sales-manage-sales.md)   </span></span>  
+<span data-ttu-id="1430b-122">[Werken met [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="1430b-122">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
 

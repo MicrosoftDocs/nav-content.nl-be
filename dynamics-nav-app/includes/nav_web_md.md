@@ -1,1 +1,1 @@
-<span data-ttu-id="93e16-101">Microsoft Dynamics NAV Web client</span><span class="sxs-lookup"><span data-stu-id="93e16-101">Microsoft Dynamics NAV Web client</span></span>
+<span data-ttu-id="4430f-101">Microsoft Dynamics NAV Web client</span><span class="sxs-lookup"><span data-stu-id="4430f-101">Microsoft Dynamics NAV Web client</span></span>

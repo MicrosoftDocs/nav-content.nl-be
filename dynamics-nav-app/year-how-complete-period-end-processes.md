@@ -1,62 +1,65 @@
 ---
-title: Perioden afsluiten
+title: Optionele activiteiten voor het afsluiten van periodes
+description: Dit onderwerp schetst de optionele processen en activiteiten voor het sluiten van boekingsperioden in Dynamics NAV.
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: ac1ed2d1dcf8bf780bda91fbf0a04e5c5e8d106a
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: year closing, close accounting period, close fiscal year, aging, creditor payments, vendor payments
+ms.date: 06/19/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: ca22e72552c69d3bcb0b85101b586796ff026896
 ms.contentlocale: nl-be
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="close-periods"></a><span data-ttu-id="767e4-102">Perioden afsluiten</span><span class="sxs-lookup"><span data-stu-id="767e4-102">Close Periods</span></span>
-<span data-ttu-id="767e4-103">U bent niet verplicht om perioden af te sluiten, maar er zijn echter vele maandeindeactiviteiten die u desgewenst kunt uitvoeren in de toepassing.</span><span class="sxs-lookup"><span data-stu-id="767e4-103">The application does not force you to close periods, however, there are many period-end (month-end) activities that can be performed in the application if you want.</span></span> <span data-ttu-id="767e4-104">In dit onderwerp vindt u een overzicht van deze processen en activiteiten die al dan niet nodig kunnen zijn voor uw bedrijf.</span><span class="sxs-lookup"><span data-stu-id="767e4-104">This topic provides an overview of these processes and activities, which may or may not be necessary for your company.</span></span>
+# <a name="overview-of-tasks-to-close-accounting-periods"></a><span data-ttu-id="620e1-103">Overzicht van taken voor het sluiten van boekingsperioden</span><span class="sxs-lookup"><span data-stu-id="620e1-103">Overview of Tasks to Close Accounting Periods</span></span>
+[!INCLUDE[d365fin](includes/d365fin_md.md)]<span data-ttu-id="620e1-104"> dwingt u niet om perioden te sluiten, maar er zijn veel activiteiten voor periode-einden (maandeinden) die u kunt uitvoeren.</span><span class="sxs-lookup"><span data-stu-id="620e1-104"> does not force you to close periods, however, there are many period-end (month-end) activities that you can do.</span></span> <span data-ttu-id="620e1-105">In dit onderwerp vindt u een overzicht van optionele processen en activiteiten voor het afsluiten van perioden.</span><span class="sxs-lookup"><span data-stu-id="620e1-105">This topic provides an overview of optional processes and activities for closing periods.</span></span>  
 
-## <a name="general-ledger"></a><span data-ttu-id="767e4-105">Grootboek</span><span class="sxs-lookup"><span data-stu-id="767e4-105">General Ledger</span></span>
-* <span data-ttu-id="767e4-106">Geef de boekingsperiode voor het gehele systeem of een specifieke gebruiker op.</span><span class="sxs-lookup"><span data-stu-id="767e4-106">Specify system-wide and user-specific posting period.</span></span>
+## <a name="general-ledger"></a><span data-ttu-id="620e1-106">Grootboek</span><span class="sxs-lookup"><span data-stu-id="620e1-106">General Ledger</span></span>
+* <span data-ttu-id="620e1-107">Geef de boekingsperioden voor het gehele systeem of een specifieke gebruiker op.</span><span class="sxs-lookup"><span data-stu-id="620e1-107">Specify system-wide and user-specific posting periods.</span></span>  
 
-    <span data-ttu-id="767e4-107">Hiermee worden de datums opgegeven tussen welke boekingen zijn toegestaan.</span><span class="sxs-lookup"><span data-stu-id="767e4-107">This specifies the dates between which postings are allowed.</span></span> <span data-ttu-id="767e4-108">Afhankelijk van uw zakelijke behoeften kunt u de boekingsdatumbereiken voor een gebruiker beperken aan het begin van het periode-eindeproces of op een later tijdstip aan het einde van de periode.</span><span class="sxs-lookup"><span data-stu-id="767e4-108">Depending on your business needs, you may want to restrict user posting date ranges at the start of the period-end process or at later time towards the end of the period.</span></span> <span data-ttu-id="767e4-109">Zie [Procedure: Boekingsperioden opgeven](finance-setup-how-specify-posting-periods.md) voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="767e4-109">For more information, see [How to: Specify Posting Periods](finance-setup-how-specify-posting-periods.md).</span></span>
-* <span data-ttu-id="767e4-110">Voer alle noodzakelijke grootboekherwaarderingen uit.</span><span class="sxs-lookup"><span data-stu-id="767e4-110">Make all necessary G/L adjustments.</span></span>
-* <span data-ttu-id="767e4-111">Wijzig en boek periodieke dagboeken.</span><span class="sxs-lookup"><span data-stu-id="767e4-111">Update and post Recurring Journals.</span></span>
-<!--* Process Consolidations-->
-* <span data-ttu-id="767e4-112">Voer rapportageschema's als volgt uit:</span><span class="sxs-lookup"><span data-stu-id="767e4-112">Run account schedules as follows:</span></span>
-  1. <span data-ttu-id="767e4-113">Open het venster **Rapportageschema** en kies de actie **Afdrukken**.</span><span class="sxs-lookup"><span data-stu-id="767e4-113">Open the **Account Schedule** window, and choose the **Print** action.</span></span>
-  2. <span data-ttu-id="767e4-114">Vul het aanvraagvenster **Rapportageschema** in en kies de actie **Afdrukken**.</span><span class="sxs-lookup"><span data-stu-id="767e4-114">Fill the **Account Schedule** request window and choose the **Print** action.</span></span>
+    <span data-ttu-id="620e1-108">Hiermee worden de datums opgegeven waartussen u boekingen wilt toestaan.</span><span class="sxs-lookup"><span data-stu-id="620e1-108">This specifies the dates between which you allow posting.</span></span> <span data-ttu-id="620e1-109">Afhankelijk van uw zakelijke processen wilt u het boeken mogelijk toestaan aan het begin of juist aan het einde van de periode.</span><span class="sxs-lookup"><span data-stu-id="620e1-109">Depending on your business, you may want to allow posting at the start of the period, or toward the end.</span></span> <span data-ttu-id="620e1-110">Zie [Procedure: Boekingsperioden opgeven](finance-how-specify-posting-periods.md) voor meer informatie.</span><span class="sxs-lookup"><span data-stu-id="620e1-110">For more information, see [How to: Specify Posting Periods](finance-how-specify-posting-periods.md).</span></span>  
+* <span data-ttu-id="620e1-111">Voer alle noodzakelijke grootboekherwaarderingen uit.</span><span class="sxs-lookup"><span data-stu-id="620e1-111">Make all necessary G/L adjustments.</span></span>  
+* <span data-ttu-id="620e1-112">Wijzig en boek periodieke dagboeken.</span><span class="sxs-lookup"><span data-stu-id="620e1-112">Update and post Recurring Journals.</span></span>  
+  <!--* Process Consolidations-->
+* <span data-ttu-id="620e1-113">Voer rapportageschema's als volgt uit:</span><span class="sxs-lookup"><span data-stu-id="620e1-113">Run account schedules as follows:</span></span>  
+  * <span data-ttu-id="620e1-114">Open het venster **Rapportageschema** en kies de actie **Afdrukken**.</span><span class="sxs-lookup"><span data-stu-id="620e1-114">Open the **Account Schedule** window, and then choose the **Print** action.</span></span>  
 
-## <a name="sales--receivables"></a><span data-ttu-id="767e4-115">Verkopen en Klanten</span><span class="sxs-lookup"><span data-stu-id="767e4-115">Sales & Receivables</span></span>
-* <span data-ttu-id="767e4-116">Boek alle verkooporders, facturen, creditnota's en retourorders.</span><span class="sxs-lookup"><span data-stu-id="767e4-116">Post all sales orders, invoices, credit memos, and return orders.</span></span>
-* <span data-ttu-id="767e4-117">Boek alle ontvangstendagboeken.</span><span class="sxs-lookup"><span data-stu-id="767e4-117">Post all cash receipt journals.</span></span>
-* <span data-ttu-id="767e4-118">Wijzig en boek periodieke dagboeken die zijn gerelateerd aan Verkoop.</span><span class="sxs-lookup"><span data-stu-id="767e4-118">Update and post recurring journals that are related to Sales & Receivables.</span></span>
-* <span data-ttu-id="767e4-119">Reconcilieer klanten met het grootboek.</span><span class="sxs-lookup"><span data-stu-id="767e4-119">Reconcile accounts receivable to the general ledger.</span></span>
-* <span data-ttu-id="767e4-120">Voer de batchverwerking **Gefactureerde verkooporders verwijderen** uit.</span><span class="sxs-lookup"><span data-stu-id="767e4-120">Run the **Delete Invoiced Sales Orders** batch job.</span></span>
+## <a name="sales-and-receivables"></a><span data-ttu-id="620e1-115">Verkopen en tegoeden</span><span class="sxs-lookup"><span data-stu-id="620e1-115">Sales and Receivables</span></span>
+* <span data-ttu-id="620e1-116">Boek alle verkooporders, facturen, creditnota's en retourorders.</span><span class="sxs-lookup"><span data-stu-id="620e1-116">Post all sales orders, invoices, credit memos, and return orders.</span></span>  
+* <span data-ttu-id="620e1-117">Boek alle ontvangstendagboeken.</span><span class="sxs-lookup"><span data-stu-id="620e1-117">Post all cash receipt journals.</span></span>  
+* <span data-ttu-id="620e1-118">Wijzig en boek periodieke dagboeken die zijn gerelateerd aan Verkoop.</span><span class="sxs-lookup"><span data-stu-id="620e1-118">Update and post recurring journals that are related to sales and receivables.</span></span>  
+* <span data-ttu-id="620e1-119">Reconcilieer klanten met het grootboek.</span><span class="sxs-lookup"><span data-stu-id="620e1-119">Reconcile accounts receivable to the general ledger.</span></span>  
+* <span data-ttu-id="620e1-120">Voer de batchverwerking **Gefactureerde verkooporders verwijderen** uit.</span><span class="sxs-lookup"><span data-stu-id="620e1-120">Run the **Delete Invoiced Sales Orders** batch job.</span></span>  
 
-## <a name="purchases--payables"></a><span data-ttu-id="767e4-121">Inkopen en Leveranciers</span><span class="sxs-lookup"><span data-stu-id="767e4-121">Purchases & Payables</span></span>
-* <span data-ttu-id="767e4-122">Boek alle inkooporders, facturen, creditnota's en retourorders.</span><span class="sxs-lookup"><span data-stu-id="767e4-122">Post all purchase orders, invoices, credit memos, and return orders.</span></span>
-* <span data-ttu-id="767e4-123">Boek alle betalingsdagboeken.</span><span class="sxs-lookup"><span data-stu-id="767e4-123">Post all payment journals.</span></span>
-* <span data-ttu-id="767e4-124">Wijzig en boek periodieke dagboeken die zijn gerelateerd aan Inkoop.</span><span class="sxs-lookup"><span data-stu-id="767e4-124">Update and post recurring journals that are related to purchases & payables.</span></span>
-* <span data-ttu-id="767e4-125">Voer het rapport **Vervallen betalingen** uit en reconcilieer leveranciers met het grootboek.</span><span class="sxs-lookup"><span data-stu-id="767e4-125">Run the **Aged Accounts Payable** report and reconcile accounts payable to the general ledger.</span></span>
-* <span data-ttu-id="767e4-126">Voer de batchverwerking **Gefactureerde inkooporders verwijderen** uit.</span><span class="sxs-lookup"><span data-stu-id="767e4-126">Run the **Delete Invoiced Purchase Orders** batch job.</span></span>
+## <a name="purchases-and-payables"></a><span data-ttu-id="620e1-121">Inkopen en schulden</span><span class="sxs-lookup"><span data-stu-id="620e1-121">Purchases and Payables</span></span>
+* <span data-ttu-id="620e1-122">Boek alle inkooporders, facturen, creditnota's en retourorders.</span><span class="sxs-lookup"><span data-stu-id="620e1-122">Post all purchase orders, invoices, credit memos, and return orders.</span></span>  
+* <span data-ttu-id="620e1-123">Boek alle betalingsdagboeken.</span><span class="sxs-lookup"><span data-stu-id="620e1-123">Post all payment journals.</span></span>  
+* <span data-ttu-id="620e1-124">Wijzig en boek periodieke dagboeken die zijn gerelateerd aan Inkoop.</span><span class="sxs-lookup"><span data-stu-id="620e1-124">Update and post recurring journals that are related to purchases & payables.</span></span>  
+* <span data-ttu-id="620e1-125">Voer het rapport **Vervallen betalingen** uit en reconcilieer leveranciers met het grootboek.</span><span class="sxs-lookup"><span data-stu-id="620e1-125">Run the **Aged Accounts Payable** report and reconcile accounts payable to the general ledger.</span></span>  
+* <span data-ttu-id="620e1-126">Voer de batchverwerking **Gefactureerde inkooporders verwijderen** uit.</span><span class="sxs-lookup"><span data-stu-id="620e1-126">Run the **Delete Invoiced Purchase Orders** batch job.</span></span>  
 
-<!-- ### Fixed Assets
-* Post all maintenance costs have been posted through the fixed asset journals or invoices.
-* Post adjustments.
-* Post appreciation.
-* Post depreciation.
-* Update and post the recurring fixed asset journal.-->
+<span data-ttu-id="620e1-127">Vast activum</span><span class="sxs-lookup"><span data-stu-id="620e1-127">Fixed Assets</span></span>
+* <span data-ttu-id="620e1-128">Boek alle onderhoudskosten via de VA-dagboeken of Facturen.</span><span class="sxs-lookup"><span data-stu-id="620e1-128">Post all maintenance costs have been posted through the fixed asset journals or invoices.</span></span>
+* <span data-ttu-id="620e1-129">Boek herwaarderingen.</span><span class="sxs-lookup"><span data-stu-id="620e1-129">Post adjustments.</span></span>
+* <span data-ttu-id="620e1-130">Boek waardevermeerdering.</span><span class="sxs-lookup"><span data-stu-id="620e1-130">Post appreciation.</span></span>
+* <span data-ttu-id="620e1-131">Boek afschrijving.</span><span class="sxs-lookup"><span data-stu-id="620e1-131">Post depreciation.</span></span>
+* <span data-ttu-id="620e1-132">Wijzig en boek het periodiek VA-dagboek.</span><span class="sxs-lookup"><span data-stu-id="620e1-132">Update and post the recurring fixed asset journal.</span></span>
 
-<!--### Intercompany
-* Process Intercompany Postings.-->
+<span data-ttu-id="620e1-133">Intercomp</span><span class="sxs-lookup"><span data-stu-id="620e1-133">Intercompany</span></span>
+* <span data-ttu-id="620e1-134">IC-transacties verwerken</span><span class="sxs-lookup"><span data-stu-id="620e1-134">Process Intercompany Transactions</span></span>
 
-## <a name="calculate-and-process-sales-tax"></a><span data-ttu-id="767e4-127">Btw berekenen en verwerken</span><span class="sxs-lookup"><span data-stu-id="767e4-127">Calculate and Process Sales Tax</span></span>
-*  <span data-ttu-id="767e4-128">Vul belastingaangiften in.</span><span class="sxs-lookup"><span data-stu-id="767e4-128">Complete Tax Statements.</span></span>
+## <a name="calculate-and-process-sales-tax"></a><span data-ttu-id="620e1-135">Btw berekenen en verwerken</span><span class="sxs-lookup"><span data-stu-id="620e1-135">Calculate and Process Sales Tax</span></span>
+* <span data-ttu-id="620e1-136">Vul belastingaangiften in.</span><span class="sxs-lookup"><span data-stu-id="620e1-136">Complete Tax Statements.</span></span>  
 
-## <a name="see-also"></a><span data-ttu-id="767e4-129">Zie ook</span><span class="sxs-lookup"><span data-stu-id="767e4-129">See Also</span></span>
-[<span data-ttu-id="767e4-130">Afsluitingsjaren en -perioden</span><span class="sxs-lookup"><span data-stu-id="767e4-130">Closing Years and Periods</span></span>](year-close-years-periods.md)  
-[<span data-ttu-id="767e4-131">Boeken sluiten</span><span class="sxs-lookup"><span data-stu-id="767e4-131">Close Books</span></span>](year-close-books.md)
+## <a name="see-also"></a><span data-ttu-id="620e1-137">Zie ook</span><span class="sxs-lookup"><span data-stu-id="620e1-137">See Also</span></span>
+[<span data-ttu-id="620e1-138">Afsluitingsjaren en -perioden</span><span class="sxs-lookup"><span data-stu-id="620e1-138">Closing Years and Periods</span></span>](year-close-years-periods.md)  
+[<span data-ttu-id="620e1-139">Boeken afsluiten</span><span class="sxs-lookup"><span data-stu-id="620e1-139">Closing Books</span></span>](year-close-books.md)  
+<span data-ttu-id="620e1-140">[Werken met [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="620e1-140">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
 

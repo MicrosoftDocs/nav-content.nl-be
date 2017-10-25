@@ -8,26 +8,26 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
+ms.translationtype: HT
 ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
 ms.openlocfilehash: 2220dbdede8d493ec711c763bf9f092d7368f3b0
 ms.contentlocale: nl-be
-ms.lasthandoff: 09/11/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
-# <a name="how-to-change-the-role-center"></a><span data-ttu-id="58701-102">Procedure: Het rolcentrum wijzigen</span><span class="sxs-lookup"><span data-stu-id="58701-102">How to: Change the Role Center</span></span>
-<span data-ttu-id="58701-103">De startpagina is het belangrijkste toegangspunt voor Dynamics NAV.</span><span class="sxs-lookup"><span data-stu-id="58701-103">The Home page is your main point of entry into Dynamics NAV.</span></span> <span data-ttu-id="58701-104">Hier kunt u een overzicht krijgen van de dagelijkse werktaken en de status ervan.</span><span class="sxs-lookup"><span data-stu-id="58701-104">Here you can get an overview of the daily work tasks and their status.</span></span> <span data-ttu-id="58701-105">Taken die u vaak uitvoert, worden geopend via de tegels in het inhoudsgebied, het navigatiedeelvenster aan de linkerkant en door acties op het lint.</span><span class="sxs-lookup"><span data-stu-id="58701-105">Tasks that you perform often are accessed through the tiles in the content area, the navigation pane on the left, and through actions in the ribbon.</span></span>
+# <a name="how-to-change-the-role-center"></a><span data-ttu-id="4d0cd-102">Procedure: Het rolcentrum wijzigen</span><span class="sxs-lookup"><span data-stu-id="4d0cd-102">How to: Change the Role Center</span></span>
+<span data-ttu-id="4d0cd-103">De startpagina is uw belangrijkste toegangspunt voor Dynamics NAV.</span><span class="sxs-lookup"><span data-stu-id="4d0cd-103">The Home page is your main point of entry into Dynamics NAV.</span></span> <span data-ttu-id="4d0cd-104">Hier kunt u een overzicht krijgen van de dagelijkse werktaken en de status ervan.</span><span class="sxs-lookup"><span data-stu-id="4d0cd-104">Here you can get an overview of the daily work tasks and their status.</span></span> <span data-ttu-id="4d0cd-105">Taken die u vaak uitvoert, worden geopend via de tegels in het inhoudsgebied, het navigatiedeelvenster aan de linkerkant en door acties op het lint.</span><span class="sxs-lookup"><span data-stu-id="4d0cd-105">Tasks that you perform often are accessed through the tiles in the content area, the navigation pane on the left, and through actions in the ribbon.</span></span>
 
-<span data-ttu-id="58701-106">De inhoud van de startpagina is gebaseerd op het geselecteerde rolcentrum.</span><span class="sxs-lookup"><span data-stu-id="58701-106">The content on the Home page is based on the selected Role Center.</span></span> <span data-ttu-id="58701-107">Het standaardrolcentrum voor Dynamics NAV is **Bedrijfsmanager**, maar u kunt dit wijzigen en kiezen uit een aantal rolcentra.</span><span class="sxs-lookup"><span data-stu-id="58701-107">The standard Role Center for Dynamics NAV is **Business Manager**, but you can change this and choose between a number of Role Centers.</span></span>
+<span data-ttu-id="4d0cd-106">De inhoud van de startpagina is gebaseerd op het geselecteerde rolcentrum.</span><span class="sxs-lookup"><span data-stu-id="4d0cd-106">The content on the Home page is based on the selected Role Center.</span></span> <span data-ttu-id="4d0cd-107">Het standaardrolcentrum voor Dynamics NAV is **Bedrijfsmanager**, maar u kunt dit wijzigen en kiezen uit een aantal rolcentra.</span><span class="sxs-lookup"><span data-stu-id="4d0cd-107">The standard Role Center for Dynamics NAV is **Business Manager**, but you can change this and choose between a number of Role Centers.</span></span>
 
-## <a name="to-change-role-center"></a><span data-ttu-id="58701-108">Het rolcentrum wijzigen</span><span class="sxs-lookup"><span data-stu-id="58701-108">To change role center</span></span>
-1. <span data-ttu-id="58701-109">Kies in de rechterbovenhoek onder het menu **Instellingen** **Mijn instellingen**.</span><span class="sxs-lookup"><span data-stu-id="58701-109">In the top right corner, under the **Settings** menu, choose **My Settings**.</span></span>
-2. <span data-ttu-id="58701-110">Selecteer in het venster **Instellingen** in het veld **Rolcentrum** het rolcentrum dat u als standaard wilt instellen.</span><span class="sxs-lookup"><span data-stu-id="58701-110">In the **My Settings** window, in the **Role Center** field, select the Role Center that you want to set as the standard.</span></span> <span data-ttu-id="58701-111">Selecteer bijvoorbeeld **Accountant**.</span><span class="sxs-lookup"><span data-stu-id="58701-111">For example, select **Accountant**.</span></span>
-3. <span data-ttu-id="58701-112">Kies de knop **Ok**.</span><span class="sxs-lookup"><span data-stu-id="58701-112">Choose the **OK** button.</span></span>
-4. <span data-ttu-id="58701-113">Meld u af bij Dynamics NAV en meld u vervolgens weer aan om de wijziging in te laten gaan.</span><span class="sxs-lookup"><span data-stu-id="58701-113">Sign out of Dynamics NAV and then sign in again to have the change take effect.</span></span>
+## <a name="to-change-role-center"></a><span data-ttu-id="4d0cd-108">Het rolcentrum wijzigen</span><span class="sxs-lookup"><span data-stu-id="4d0cd-108">To change role center</span></span>
+1. <span data-ttu-id="4d0cd-109">Kies in de rechterbovenhoek onder het menu **Instellingen** **Mijn instellingen**.</span><span class="sxs-lookup"><span data-stu-id="4d0cd-109">In the top right corner, under the **Settings** menu, choose **My Settings**.</span></span>
+2. <span data-ttu-id="4d0cd-110">Selecteer in het venster **Instellingen** in het veld **Rolcentrum** het rolcentrum dat u als standaard wilt instellen.</span><span class="sxs-lookup"><span data-stu-id="4d0cd-110">In the **My Settings** window, in the **Role Center** field, select the Role Center that you want to set as the standard.</span></span> <span data-ttu-id="4d0cd-111">Selecteer bijvoorbeeld **Accountant**.</span><span class="sxs-lookup"><span data-stu-id="4d0cd-111">For example, select **Accountant**.</span></span>
+3. <span data-ttu-id="4d0cd-112">Kies de knop **Ok**.</span><span class="sxs-lookup"><span data-stu-id="4d0cd-112">Choose the **OK** button.</span></span>
+4. <span data-ttu-id="4d0cd-113">Meld u af bij Dynamics NAV en meld u vervolgens weer aan om de wijziging door te voeren.</span><span class="sxs-lookup"><span data-stu-id="4d0cd-113">Sign out of Dynamics NAV and then sign in again to have the change take effect.</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="58701-114">Zie ook</span><span class="sxs-lookup"><span data-stu-id="58701-114">See Also</span></span>
-[<span data-ttu-id="58701-115">Welkom bij Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="58701-115">Welcome to Dynamics NAV</span></span>](across-get-started.md)  
-[<span data-ttu-id="58701-116">Werken met Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="58701-116">Work With Dynamics NAV</span></span>](ui-work-product.md)  
+## <a name="see-also"></a><span data-ttu-id="4d0cd-114">Zie ook</span><span class="sxs-lookup"><span data-stu-id="4d0cd-114">See Also</span></span>
+[<span data-ttu-id="4d0cd-115">Welkom bij Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="4d0cd-115">Welcome to Dynamics NAV</span></span>](across-get-started.md)  
+[<span data-ttu-id="4d0cd-116">Werken met Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="4d0cd-116">Work With Dynamics NAV</span></span>](ui-work-product.md)  
 

@@ -1,37 +1,42 @@
 ---
-title: Ultimoposten voorbereiden
+title: Overzicht van rapporten om ultimoafschriften te helpen voorbereiden
+description: "Levert een overzicht van de lijsten die u kunt gebruiken om gegevens te verzamelen om de ultimoafschriften van uw bedrijf voor te bereiden wanneer het financiële jaar wordt gesloten."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
-ms.openlocfilehash: 96f5cd1dd34803b10402fb547793ff6e8ad174c0
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: year closing, close accounting period, close fiscal year, aging, creditor payments, vendor payments, assets, liabilities, equity, analysis, reporting, financial report, business intelligence, BI, Power Bi, KPI
+ms.date: 06/02/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 240fd8eb76a430ab3163ab4326c3c077df838cba
 ms.contentlocale: nl-be
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="prepare-closing-statements"></a><span data-ttu-id="d46df-102">Ultimoposten voorbereiden</span><span class="sxs-lookup"><span data-stu-id="d46df-102">Prepare Closing Statements</span></span>
-<span data-ttu-id="d46df-103">Er staat een aantal standaardrapporten tot uw beschikking voor het verzamelen van de informatie die u nodig hebt voor het voorbereiden van de afsluitingsoverzichten van uw bedrijf.</span><span class="sxs-lookup"><span data-stu-id="d46df-103">There are a number of standard reports that you can use to gather the information that you need to prepare your company's closing statements.</span></span>
+# <a name="preparing-closing-statements"></a><span data-ttu-id="88158-103">Afsluitingsoverzichten voorbereiden</span><span class="sxs-lookup"><span data-stu-id="88158-103">Preparing Closing Statements</span></span>
+<span data-ttu-id="88158-104">Er staat een aantal standaardrapporten tot uw beschikking voor het verzamelen van de informatie die u nodig hebt voor het voorbereiden van de afsluitingsoverzichten van uw bedrijf.</span><span class="sxs-lookup"><span data-stu-id="88158-104">There are a number of standard reports that you can use to gather the information that you need to prepare your company's closing statements.</span></span>
 
-<span data-ttu-id="d46df-104">De volgende tabel beschrijft een aantal rapporten die nuttig kunnen zijn bij dit proces, met koppelingen naar de onderwerpen waar deze worden beschreven.</span><span class="sxs-lookup"><span data-stu-id="d46df-104">The following table describes a number of reports that may be useful in this process, with links to the topics that describe them.</span></span>
+<span data-ttu-id="88158-105">De volgende tabel beschrijft een aantal rapporten die nuttig kunnen zijn bij dit proces, met koppelingen naar de onderwerpen waar deze worden beschreven.</span><span class="sxs-lookup"><span data-stu-id="88158-105">The following table describes a number of reports that may be useful in this process, with links to the topics that describe them.</span></span>
 
-|<span data-ttu-id="d46df-105">Als u dit wilt doen</span><span class="sxs-lookup"><span data-stu-id="d46df-105">To</span></span>     |<span data-ttu-id="d46df-106">Dit rapport raadplegen</span><span class="sxs-lookup"><span data-stu-id="d46df-106">See this report</span></span>                  |
-|-------|---------------------------------|
-|<span data-ttu-id="d46df-107">Een proefbalansrapport af te drukken met saldo's en nettowijzigingen van grootboekrekeningen.</span><span class="sxs-lookup"><span data-stu-id="d46df-107">Print a trial balance report with balances and net changes for general ledger accounts.</span></span>|<span data-ttu-id="d46df-108">Proefbalans</span><span class="sxs-lookup"><span data-stu-id="d46df-108">Trial Balance</span></span>|
-|<span data-ttu-id="d46df-109">Een overzicht te krijgen van rekeningen met vorderingen, met de ouderdom van te ontvangen bedragen, berekend vanaf de vervaldatum, boekdatum of documentdatum.</span><span class="sxs-lookup"><span data-stu-id="d46df-109">Get an overview of accounts receivable, with the age of amounts receivable calculated from the due date, posting date, or document date.</span></span>|<span data-ttu-id="d46df-110">Vervallen vorderingen</span><span class="sxs-lookup"><span data-stu-id="d46df-110">Aged Accounts Receivable</span></span>|
-|<span data-ttu-id="d46df-111">Een overzicht te krijgen van rekeningen met schulden, met de ouderdom van te betalen bedragen, berekend vanaf de vervaldatum, boekdatum of documentdatum.</span><span class="sxs-lookup"><span data-stu-id="d46df-111">Get an overview of accounts payable, with the age of amounts payable calculated from the due date, posting date or document date.</span></span>|<span data-ttu-id="d46df-112">Vervallen betalingen</span><span class="sxs-lookup"><span data-stu-id="d46df-112">Aged Accounts Payable</span></span>|
-|<span data-ttu-id="d46df-113">De proefbalans te vergelijken met een budget.</span><span class="sxs-lookup"><span data-stu-id="d46df-113">Compare the trial balance with a budget.</span></span>|<span data-ttu-id="d46df-114">Proefbalans/Budget</span><span class="sxs-lookup"><span data-stu-id="d46df-114">Trial Balance/Budget</span></span>|
-|<span data-ttu-id="d46df-115">Een proefbalansrapport af te drukken met saldo's en nettowijzigingen van grootboekrekeningen, berekend voor een aantal perioden.</span><span class="sxs-lookup"><span data-stu-id="d46df-115">Print a trial balance report with balances and net changes for general ledger accounts calculated for a series of periods.</span></span>|<span data-ttu-id="d46df-116">Proefbalans per periode</span><span class="sxs-lookup"><span data-stu-id="d46df-116">Trial Balance by Period</span></span>|
-|<span data-ttu-id="d46df-117">Een rapportageschema af te drukken om de cijfers in grootboekrekeningen te analyseren, of om werkelijke grootboekposten te vergelijken met budgetposten voor het grootboek.</span><span class="sxs-lookup"><span data-stu-id="d46df-117">Print an account schedule to analyze figures in general ledger accounts or compare actual general ledger entries with general ledger budget entries.</span></span>|<span data-ttu-id="d46df-118">Rapportageschema</span><span class="sxs-lookup"><span data-stu-id="d46df-118">Account Schedule</span></span>|
-|<span data-ttu-id="d46df-119">Te controleren of klant- en leveranciersposten overeenkomen met corresponderende grootboekposten.</span><span class="sxs-lookup"><span data-stu-id="d46df-119">Check whether customer and vendor ledger entries balance with corresponding general ledger entries.</span></span>|<span data-ttu-id="d46df-120">Klant- en</span><span class="sxs-lookup"><span data-stu-id="d46df-120">Reconcile Cust.</span></span> <span data-ttu-id="d46df-121">leveranciersrekeningen</span><span class="sxs-lookup"><span data-stu-id="d46df-121">and Vend.</span></span> <span data-ttu-id="d46df-122">reconciliëren</span><span class="sxs-lookup"><span data-stu-id="d46df-122">Accs</span></span>|
+| <span data-ttu-id="88158-106">Als u dit wilt doen</span><span class="sxs-lookup"><span data-stu-id="88158-106">To</span></span> | <span data-ttu-id="88158-107">Dit rapport raadplegen</span><span class="sxs-lookup"><span data-stu-id="88158-107">See this report</span></span> |
+| --- | --- |
+| <span data-ttu-id="88158-108">Een proefbalansrapport af te drukken met saldo's en nettowijzigingen van grootboekrekeningen.</span><span class="sxs-lookup"><span data-stu-id="88158-108">Print a trial balance report with balances and net changes for general ledger accounts.</span></span> |<span data-ttu-id="88158-109">Proefbalans</span><span class="sxs-lookup"><span data-stu-id="88158-109">Trial Balance</span></span> |
+| <span data-ttu-id="88158-110">Een overzicht te krijgen van rekeningen met vorderingen, met de ouderdom van te ontvangen bedragen, berekend vanaf de vervaldatum, boekdatum of documentdatum.</span><span class="sxs-lookup"><span data-stu-id="88158-110">Get an overview of accounts receivable, with the age of amounts receivable calculated from the due date, posting date, or document date.</span></span> |<span data-ttu-id="88158-111">Vervallen vorderingen</span><span class="sxs-lookup"><span data-stu-id="88158-111">Aged Accounts Receivable</span></span> |
+| <span data-ttu-id="88158-112">Een overzicht te krijgen van rekeningen met schulden, met de ouderdom van te betalen bedragen, berekend vanaf de vervaldatum, boekdatum of documentdatum.</span><span class="sxs-lookup"><span data-stu-id="88158-112">Get an overview of accounts payable, with the age of amounts payable calculated from the due date, posting date or document date.</span></span> |<span data-ttu-id="88158-113">Vervallen betalingen</span><span class="sxs-lookup"><span data-stu-id="88158-113">Aged Accounts Payable</span></span> |
+| <span data-ttu-id="88158-114">De proefbalans te vergelijken met een budget.</span><span class="sxs-lookup"><span data-stu-id="88158-114">Compare the trial balance with a budget.</span></span> |<span data-ttu-id="88158-115">Proefbalans/Budget</span><span class="sxs-lookup"><span data-stu-id="88158-115">Trial Balance/Budget</span></span> |
+| <span data-ttu-id="88158-116">Een proefbalansrapport af te drukken met saldo's en nettowijzigingen van grootboekrekeningen, berekend voor een aantal perioden.</span><span class="sxs-lookup"><span data-stu-id="88158-116">Print a trial balance report with balances and net changes for general ledger accounts calculated for a series of periods.</span></span> |<span data-ttu-id="88158-117">Proefbalans per periode</span><span class="sxs-lookup"><span data-stu-id="88158-117">Trial Balance by Period</span></span> |
+| <span data-ttu-id="88158-118">Een rapportageschema af te drukken om de cijfers in grootboekrekeningen te analyseren, of om werkelijke grootboekposten te vergelijken met budgetposten voor het grootboek.</span><span class="sxs-lookup"><span data-stu-id="88158-118">Print an account schedule to analyze figures in general ledger accounts or compare actual general ledger entries with general ledger budget entries.</span></span> |<span data-ttu-id="88158-119">Rapportageschema</span><span class="sxs-lookup"><span data-stu-id="88158-119">Account Schedule</span></span> |
+| <span data-ttu-id="88158-120">Te controleren of klant- en leveranciersposten overeenkomen met corresponderende grootboekposten.</span><span class="sxs-lookup"><span data-stu-id="88158-120">Check whether customer and vendor ledger entries balance with corresponding general ledger entries.</span></span> |<span data-ttu-id="88158-121">Recon. klant- en lev.-rek.</span><span class="sxs-lookup"><span data-stu-id="88158-121">Reconcile Cust. and Vend. Accs</span></span> |
 
-<span data-ttu-id="d46df-123">Als u een rapport wilt bekijken, kiest u in de rechterbovenhoek het pictogram **Zoeken naar pagina of rapport**, typt u de naam zoals deze in de tabel wordt weergegeven en kiest u vervolgens de gerelateerde koppeling.</span><span class="sxs-lookup"><span data-stu-id="d46df-123">To see a report, in the top right corner, choose the **Search for Page or Report** icon, type the name as it appears in the table, and then choose the related link.</span></span>
+<span data-ttu-id="88158-122">Als u een rapport wilt bekijken, kiest u het pictogram ![Zoeken naar pagina of rapport](media/ui-search/search_small.png "pictogram Zoeken naar pagina of rapport"), typt u de naam zoals deze in de tabel wordt weergegeven en kiest u vervolgens de gerelateerde koppeling.</span><span class="sxs-lookup"><span data-stu-id="88158-122">To see a report, choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, type the name as it appears in the table, and then choose the related link.</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="d46df-124">Zie ook</span><span class="sxs-lookup"><span data-stu-id="d46df-124">See Also</span></span>
-[<span data-ttu-id="d46df-125">Jaren en perioden afsluiten</span><span class="sxs-lookup"><span data-stu-id="d46df-125">Close Years and Periods</span></span>](year-close-years-periods.md)
+## <a name="see-also"></a><span data-ttu-id="88158-123">Zie ook</span><span class="sxs-lookup"><span data-stu-id="88158-123">See Also</span></span>
+[<span data-ttu-id="88158-124">Afsluitingsjaren en -perioden</span><span class="sxs-lookup"><span data-stu-id="88158-124">Closing Years and Periods</span></span>](year-close-years-periods.md)  
+<span data-ttu-id="88158-125">[Werken met [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="88158-125">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
+[<span data-ttu-id="88158-126">Bedrijfsinformatie</span><span class="sxs-lookup"><span data-stu-id="88158-126">Business Intelligence</span></span>](bi.md)
 

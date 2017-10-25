@@ -1,1 +1,1 @@
-<span data-ttu-id="34472-101">Microsoft Dynamics NAV 2017 Administration Shell</span><span class="sxs-lookup"><span data-stu-id="34472-101">Microsoft Dynamics NAV 2017 Administration Shell</span></span>
+<span data-ttu-id="97986-101">Microsoft Dynamics NAV 2017 Administration Shell</span><span class="sxs-lookup"><span data-stu-id="97986-101">Microsoft Dynamics NAV 2017 Administration Shell</span></span>
