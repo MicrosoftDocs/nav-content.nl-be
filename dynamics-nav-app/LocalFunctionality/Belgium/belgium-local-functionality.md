@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 09c402cfedffd5474dda6b7a713feeb7c1a20c9e
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 37bc91c69a2fc13a1afa3d316f924dbcdc53e743
 ms.contentlocale: nl-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="belgium-local-functionality"></a>Belgische lokale functionaliteit
@@ -31,4 +31,7 @@ In de volgende onderwerpen wordt de lokale functionaliteit beschreven die uniek 
   [Procedure: Exporteren naar Accon](how-to-export-to-accon.md)  
   [Procedure: Grootboekposten vereffenen en de vereffening ervan ongedaan maken](how-to-apply-and-unapply-general-ledger-entries.md)  
   [Procedure: De boekingsperiode beperken](how-to-limit-the-posting-period.md)
+
+## <a name="see-also"></a>Zie ook
+[Werken met [!INCLUDE[navnow](../../includes/navnow_md.md)]](../../ui-work-product.md)
 
