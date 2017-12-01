@@ -3,7 +3,7 @@ title: SEPA-betalingen
 description: SEPA (Single Euro Payments Area) verenigt de betalingsmethoden in deelnemende Europese landen. Hierdoor worden internationale betalingen even gemakkelijk te verwerken als binnenlandse betalingen. Ongeacht de locatie, kunnen Europese burgers en bedrijven betalingen in euro's verrichten en ontvangen, binnen of buiten nationale grenzen, onder dezelfde basisomstandigheden, -rechten en -verplichtingen.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

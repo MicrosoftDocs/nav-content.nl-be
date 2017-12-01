@@ -3,7 +3,7 @@ title: Belgische Intrastat-rapportage
 description: Bedrijven uit EU-landen/regio's moeten handel met bedrijven uit andere landen/regio's in de EU rapporteren. Dit rapportageproces verloopt via Intrastat-rapportage of VIES (btw-informatie-uitwisselingssysteem).
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

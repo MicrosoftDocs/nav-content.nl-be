@@ -3,7 +3,7 @@ title: CODA-afschriften importeren
 description: Wanneer u een CODA-afschrift van de bank ontvangt, moet u het importeren in [!INCLUDE[navnow](../../includes/navnow_md.md)].
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

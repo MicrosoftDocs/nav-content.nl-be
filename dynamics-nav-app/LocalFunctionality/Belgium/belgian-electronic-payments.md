@@ -3,7 +3,7 @@ title: Belgische elektronische betalingen
 description: In de module voor elektronisch bankieren in [!INCLUDE[navnow](../../includes/navnow_md.md)] kunt u elektronische betalingen naar binnen- en buitenland, en SEPA en niet-Euro SEPA verzenden.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

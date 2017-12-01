@@ -3,7 +3,7 @@ title: Ondernemingnummers en filiaalnummers
 description: Bedrijven ontvangen een uniek ondernemingsnummer en een of meer filiaalnummers van de Belgische Kruispuntbank van Ondernemingen. Deze nummers worden gebruikt in alle correspondentie om de communicatie met de Belgische administratieve en gerechtelijke autoriteiten te vereenvoudigen.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

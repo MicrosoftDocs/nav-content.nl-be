@@ -3,7 +3,7 @@ title: "Elektronisch bankieren voor België"
 description: "Via elektronisch bankieren kunt u gegevens elektronisch uitwisselen met Belgische financiële instellingen. Gegevens kunnen per schijf of via een modem of Isabel (Interbanks Standards Association Belgium) worden uitgewisseld. Op deze manier profiteert u van een snellere verwerkingstijd en voorkomt u fouten als gevolg van handmatige gegevensinvoer of -verwerking."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

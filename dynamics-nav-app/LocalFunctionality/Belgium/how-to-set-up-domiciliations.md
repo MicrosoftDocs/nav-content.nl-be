@@ -3,7 +3,7 @@ title: "Domiciliëringen instellen"
 description: "Voordat u kunt beginnen met elektronisch bankieren voor domiciliëringen, moet u het domiciliëringsnummer van de klant en de bankrekening van voorkeur opgeven."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

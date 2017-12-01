@@ -3,7 +3,7 @@ title: Regels voor elektronische betalingen beheren
 description: U kunt instellen dat [!INCLUDE[navnow](../../includes/navnow_md.md)] automatisch betalingen voorstelt en vervolgens kunt u handmatig meer betalingen toevoegen. U kunt voorgestelde betalingen ook bewerken of verwijderen.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

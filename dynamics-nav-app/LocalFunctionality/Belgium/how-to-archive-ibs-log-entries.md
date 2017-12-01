@@ -3,7 +3,7 @@ title: IBS-logposten archiveren
 description: IBS-logboekregels met de verwerkingsstatus **Verwerkt** kunnen worden gearchiveerd. IBS-logboeken bevatten gegevens over bestanden voor elektronisch bankieren die tijdens elektronische banktransfers van Isabel worden gemaakt.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

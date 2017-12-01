@@ -3,7 +3,7 @@ title: De werkdatum als boekingsdatum instellen
 description: U kunt het grootboek zo instellen dat de werkdatum als boekingsdatum wordt gebruikt voor openstaande klanten- of leveranciersposten in een factuur, betaling of creditnota.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

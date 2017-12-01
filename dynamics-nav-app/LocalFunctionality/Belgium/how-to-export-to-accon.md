@@ -3,7 +3,7 @@ title: Exporteren naar Accon
 description: "Met het rapport **Koppelen aan Accon** kunt u een bestand maken dat in ACCON Plus kan worden geïmporteerd om een jaarlijkse resultatenrekening te genereren. Met het rapport wordt het totaalsaldo van de grootboekrekeningen voor een bepaalde periode geëxporteerd."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

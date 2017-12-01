@@ -3,7 +3,7 @@ title: "Incasso via domiciliëring"
 description: "Een domiciliëring is een financiële overeenkomst tussen u en uw klanten, zodat u de betalingen voor facturen van de klant automatisch kunt innen via een bankrekening van voorkeur. Domiciliëringen kunnen alleen worden verwerkt voor binnenlandse klanten met binnenlandse bankrekeningen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: CODA-bestanden van een Isabel-server downloaden
 description: CODA-bestanden kunnen handmatig of in de modus Met toezicht worden gedownload.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
