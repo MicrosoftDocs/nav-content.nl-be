@@ -3,7 +3,7 @@ title: Het rapport Intrastat - Formulier afdrukken
 description: "Het rapport **Intrastat - Formulier** moet worden gebruikt voor Intrastat-rapportage. In België moet u de beweging van goederen elke maand doorgeven aan de autoriteiten en er moet aangifte bij de belastingdienst worden gedaan."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: b9f2b176445154c6d9a7429136a8645806f232f0
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: ca849f46892f8723dade7a61de54fa7f10df437d
 ms.contentlocale: nl-be
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-print-the-intrastat-form-report"></a><span data-ttu-id="363f4-104">Procedure: Het rapport Intrastat - Formulier afdrukken</span><span class="sxs-lookup"><span data-stu-id="363f4-104">How to: Print the Intrastat Form Report</span></span>

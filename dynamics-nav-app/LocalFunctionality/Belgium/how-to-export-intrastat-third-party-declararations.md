@@ -3,7 +3,7 @@ title: Intrastat-aangiftes van derden exporteren
 description: "In België moet u de Intrastat-aangifte door een derde laten invullen. Dit moet een extern persoon of een bedrijf zijn."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 5b39ed569a07c85102ec0f086c135e1789553b2a
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 9fa20d2efed14807da602907bcfe3cd84082264a
 ms.contentlocale: nl-be
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-export-intrastat-third-party-declararations"></a><span data-ttu-id="e2c59-104">Procedure: Intrastat-aangiftes van derden exporteren</span><span class="sxs-lookup"><span data-stu-id="e2c59-104">How to: Export Intrastat Third-Party Declararations</span></span>

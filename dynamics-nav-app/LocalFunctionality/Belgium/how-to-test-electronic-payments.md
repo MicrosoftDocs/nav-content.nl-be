@@ -3,7 +3,7 @@ title: Elektronische betalingen testen
 description: Nadat u elektronisch bankieren hebt ingesteld en betalingsvoorstellen hebt gegenereerd, kunt u de betalingsdagboekregels op fouten testen voordat u ze boekt.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 827d1bc67d6a2536f704a63668714a90249de3ae
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: aa042839fa0add2f8666d0146ef77165fa0c75eb
 ms.contentlocale: nl-be
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-test-electronic-payments"></a><span data-ttu-id="fcb59-103">Procedure: Elektronische betalingen testen</span><span class="sxs-lookup"><span data-stu-id="fcb59-103">How to: Test Electronic Payments</span></span>

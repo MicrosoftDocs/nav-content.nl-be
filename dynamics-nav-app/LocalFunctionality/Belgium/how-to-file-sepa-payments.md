@@ -3,7 +3,7 @@ title: SEPA-betalingen indienen
 description: In [!INCLUDE[navnow](../../includes/navnow_md.md)] kunt u SEPA-kredietoverboekingen (Single Euro Payments Area) gebruiken om SEPA-betalingen in te dienen bij de bank.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: da4e7789dfb45e3119db809be1ddcd1ccd918b0d
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 8304aa2ea1ff3d95a84c106b1580099672bb686e
 ms.contentlocale: nl-be
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-file-sepa-payments"></a><span data-ttu-id="071b4-103">Procedure: SEPA-betalingen indienen</span><span class="sxs-lookup"><span data-stu-id="071b4-103">How to: File SEPA Payments</span></span>

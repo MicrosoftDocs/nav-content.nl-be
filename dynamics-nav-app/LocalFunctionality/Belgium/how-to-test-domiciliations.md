@@ -3,7 +3,7 @@ title: "Domiciliëringen testen"
 description: "Als u de domiciliëringsdagboekregels wilt testen, kunt u het rapport **Domiciliëringsdagboek - Test** gebruiken. Hiermee drukt u een overzicht af van alle dagboekregels en eventuele fouten, zoals ontbrekende velden of onjuiste bankrekeningen."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: a0d5cbd141cafda2d23899802ac084f268bebb31
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 088d94951eb502c255a84a1c1e0a2815e16ea08a
 ms.contentlocale: nl-be
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-test-domiciliations"></a><span data-ttu-id="ca977-104">Procedure: Domiciliëringen testen</span><span class="sxs-lookup"><span data-stu-id="ca977-104">How to: Test Domiciliations</span></span>

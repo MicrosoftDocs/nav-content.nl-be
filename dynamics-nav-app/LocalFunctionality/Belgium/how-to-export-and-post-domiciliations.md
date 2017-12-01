@@ -3,7 +3,7 @@ title: "Domiciliëringen exporteren en boeken"
 description: "U kunt domiciliëringen naar uw bank verzenden door de gegevens naar een bestand te exporteren. Wanneer u naar een bestand exporteert, kunt u ervoor kiezen de regels automatisch naar het grootboek te boeken."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 9e766ed9d5b08f23c3cf5873e498b393fc812dbe
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 2b4ebb762eb24dbfc5cf698f146bf3df94f3286c
 ms.contentlocale: nl-be
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-export-and-post-domiciliations"></a><span data-ttu-id="bc592-104">Procedure: Domiciliëringen exporteren en boeken</span><span class="sxs-lookup"><span data-stu-id="bc592-104">How to: Export and Post Domiciliations</span></span>
